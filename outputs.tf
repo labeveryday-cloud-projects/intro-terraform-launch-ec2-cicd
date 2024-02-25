@@ -1,0 +1,1 @@
+# outputs.tf - contains the output variables for the module

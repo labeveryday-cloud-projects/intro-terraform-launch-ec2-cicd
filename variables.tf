@@ -1,0 +1,1 @@
+# variables.tf - contains the input variables
